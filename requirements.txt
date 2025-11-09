@@ -1,0 +1,14 @@
+streamlit
+neo4j
+langchain
+langchain_community
+langchain_groq
+python-dotenv
+pandas
+gitpython
+pypdf
+python-docx
+gitpython
+pyvis
+mlxtend
+cryptography
